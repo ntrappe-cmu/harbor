@@ -1,0 +1,10 @@
+.build/
+dist/
+.local-data/
+.DS_Store
+.swiftpm/
+.env
+.env.*
+*.key
+*.p12
+*.p8
