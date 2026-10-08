@@ -4,6 +4,9 @@ A minimal native macOS app for running Claude Code and Codex on a copied project
 
 This is an early development MVP, not a production security product.
 
+<img width="49%" height="auto" alt="flow1" src="https://github.com/user-attachments/assets/db52bc1a-7ed1-4bf8-bbed-0284606497ee" />
+<img width="49%" height="auto" alt="flow2" src="https://github.com/user-attachments/assets/870f6785-44d5-4b2c-a3a6-c060f897c805" />
+
 ## Requirements
 
 - Apple silicon Mac running macOS 26 or later.
